@@ -93,4 +93,3 @@ It is possible to transfer some parameters by GET method of HTTP protocol to the
 [1]: http://www.arsenalmedia.ru/index.php/en
 [2]: https://arsenalpay.ru/
 [3]: https://arsenalpay.ru/site/integration
-
