@@ -2,7 +2,7 @@ PHP ArsenalPay API SDK
 ====================
 
 [Arsenal Media LLC][1]
-[ArsenalPay processing server][2]
+[ArsenalPay processing server][1]
 
 PHP ArsenalPay API SDK contains methods to make integration of your php application with processing server of ArsenalPay  easier and faster .
 
@@ -12,7 +12,7 @@ Version
 
 Source
 ---------
-[Official integration guide page][3]
+[Official integration guide page][2]
 
 Manual  Installation
 ------------------------
@@ -90,6 +90,5 @@ It is possible to transfer some parameters by GET method of HTTP protocol to the
 `css` - address (URL) of CSS file
 `frame` - mode option of frame view ("1" - full screen mode of frame view )
 
-[1]: http://www.arsenalmedia.ru/index.php/en
-[2]: https://arsenalpay.ru/
-[3]: https://arsenalpay.ru/site/integration
+[1]: https://arsenalpay.ru/
+[2]: https://arsenalpay.ru/documentation.html
