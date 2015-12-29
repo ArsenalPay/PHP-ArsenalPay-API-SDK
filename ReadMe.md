@@ -77,7 +77,7 @@ echo $frame->getFrame();
 ```php
 require_once 'CallBack.php';
 $callBack = new AMpay\CallBack;
-$callBack->handleCallBack('keyword to check the sign');
+echo $callBack->handleCallBack('keyword to check the sign');
 ```
 
 GET parameters of Frame
