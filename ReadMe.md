@@ -20,7 +20,7 @@ Source
 Manual  Installation
 ------------------------
 To obtain the latest version  of PHP ArsenalPay Api SDK use:
-`git clone https://github.com/php-arsenalmedia-api-sdk`
+`git clone https://github.com/ArsenalPay/PHP-ArsenalPay-API-SDK.git`
 To  have access to SDK methods add the following to your php script:
 `require_once("/path/to/php-arsenalpay-api-sdk/lib");`
 
